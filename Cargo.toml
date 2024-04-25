@@ -16,4 +16,4 @@ default = []
 
 [dependencies]
 cfg-if = "1.0"
-kernel_guard_base = { path = "ssh://git@github.com/shilei-massclouds/kernel_guard_base" }
+kernel_guard_base = { git = "ssh://git@github.com/shilei-massclouds/kernel_guard_base" }
